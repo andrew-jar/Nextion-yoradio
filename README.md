@@ -24,3 +24,11 @@ Podłaczenie Nextion NX4024K032 do ESP32S3 oraz Modułu dekodera DAC PCM5102A (I
 #define I2S_BCLK			  3
 
 #define I2S_LRC			    1
+
+
+ustawienia programu dla płytki ESP32S3
+
+![2025-04-11_195136](https://github.com/user-attachments/assets/2a2ece15-e185-486c-948c-0095e41191ab)
+
+
+
