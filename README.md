@@ -3,9 +3,9 @@
 Radio internetowe oparte na esp32S3 oraz wyświetlaczu Nextion NX4024K032 (dotyk)
 
 Oprogramowanie modyfikowałem czyli:
-- Mapowaniem polskich znaków na 8-bitowe kody (UTF-8 na Nextion8869-2)
+- Mapowaniem polskich i słowackich znaków na 8-bitowe kody (UTF-8 na Nextion8869-2)
 - Zmiana czcionki zegara w Nextion NX4024K032
-- Dodanie czcionki z polskimi ogonkami do Nextion NX4024K032
+- Dodanie czcionki z polskimi i słowackimi ogonkami do Nextion NX4024K032
 - inne
 
 ![20250407_181651](https://github.com/user-attachments/assets/bf113f71-511a-4dd9-99e2-db6248836df8)
