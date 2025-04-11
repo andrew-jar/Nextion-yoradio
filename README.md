@@ -8,6 +8,8 @@ Oprogramowanie modyfikowałem czyli:
 - Dodanie czcionki z polskimi i słowackimi ogonkami do Nextion NX4024K032
 - inne
 
+W pliku nextion.zip jest plik (NX4024K032_PL_SK.tft) który należe skopiować na kartę SD i wgrać do wyświetlacza Nextion.
+
 ![20250407_181651](https://github.com/user-attachments/assets/bf113f71-511a-4dd9-99e2-db6248836df8)
 ![20250410_103805](https://github.com/user-attachments/assets/2743f537-c380-493f-aae5-be3067fee9d2)
 
