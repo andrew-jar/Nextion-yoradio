@@ -14,11 +14,11 @@ Oprogramowanie modyfikowałem czyli:
 Podłaczenie Nextion NX4024K032 do ESP32S3 oraz Modułu dekodera DAC PCM5102A (I2S)
 
 #define NEXTION_RX			16  //TX Nextion → GPIO16 (RX) na ESP32-S3
+
 #define NEXTION_TX			17  //RX Nextion → GPIO17 (TX) na ESP32-S3
 
 #define I2S_DOUT			  9
-#define I2S_BCLK			  3
-#define I2S_LRC			    1
-#define IR_PIN			    4
 
-można dodać IR - ale tu jak kto woli.
+#define I2S_BCLK			  3
+
+#define I2S_LRC			    1
